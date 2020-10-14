@@ -34,27 +34,27 @@ let resumeData = {
         "Achievements":"Worked on Several Projects"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of Berkeley",
+        "specialization":"Programming",
+        "MonthOfPassing":"October",
+        "YearOfPassing":"2020",
+        "Achievements":"On going "
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Freelance Web Developer",
+        "specialization":"Web Development",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Developed Basic Websites"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Data Tech",
+        "specialization":"Programing",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfLeaving":"2020",
+        "Achievements":"Wrote Basic Programs"
       }
     ],
     "skillsDescription":"Your skills here",
@@ -72,7 +72,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"project1",
-        "description":"mobileapp",
+        "description":"Google Search React",
         "imgurl":"images/portfolio/phone.jpg"
       },
       {
