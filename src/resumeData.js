@@ -77,12 +77,12 @@ let resumeData = {
       },
       {
         "name":"project2",
-        "description":"mobileapp",
+        "description":"User directory",
         "imgurl":"images/portfolio/project.jpg"
       },
       {
         "name":"project3",
-        "description":"mobileapp",  
+        "description":"Fitness Tracker",  
         "imgurl":"images/portfolio/project2.png"
       },
       {
