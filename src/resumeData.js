@@ -27,11 +27,11 @@ let resumeData = {
     "website":"https://github.com/esmailmb",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"Colombia University",
+        "specialization":"Full Stack Web Development",
+        "MonthOfPassing":"October",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Worked on Several Projects"
       },
       {
         "UniversityName":"Some University",
