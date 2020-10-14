@@ -1,14 +1,14 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Esmail Mahbub",
+    "role": "Programmer and Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/esmail-mahbub-47589036/",
           "className":"fa fa-linkedin"
         },
         {
