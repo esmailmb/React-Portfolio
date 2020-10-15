@@ -73,32 +73,32 @@ let resumeData = {
       {
         "name":"project1",
         "description":"Google Search React",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/google.png"
       },
       {
         "name":"project2",
         "description":"User directory",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"images/portfolio/directory.png"
       },
       {
         "name":"project3",
         "description":"Fitness Tracker",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/portfolio/fitness.png"
       },
       {
         "name":"project4",
         "description":"Note Taker",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/note.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Technicaly Guy"
+        "description":"Esmail built amazing React website for me ..",
+        "name":"Andrew"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Technical Guy"
+        "description":"I love to work with Esmail",
+        "name":"Ben"
       }
     ]
   }
